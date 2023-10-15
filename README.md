@@ -1,4 +1,11 @@
 # React + Vite
+Merhaba,
+Redux Thunk ile API'dan film verisi çekip Clone Netflix tasarladım. 
+
+# Kullanılan Teknılojiler
+- React.JS
+- CSS
+- HTML
 
 # Kullanılan Kütüphaneler
 
