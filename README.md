@@ -1,4 +1,4 @@
-# React + Vite
+# React ile Netflix Clone
 Merhaba,
 Redux Thunk ile API'dan film verisi çekip Clone Netflix tasarladım. 
 
