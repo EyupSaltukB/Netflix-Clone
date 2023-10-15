@@ -16,6 +16,14 @@
 # Kaynaklar
 API: https://developer.themoviedb.org/reference/changes-movie-lists
 
+# Ekran Görüntüleri
+![](/public/assets/netflix-screen-1.png)
+![](/public/assets/netflix-screen-2.png)
+![](/public/assets/netflix-screen-3.png)
+![](/public/assets/netflix-screen-4.png)
+
+# Video 
+![](/public/assets/Netflix-Clone-With-Redux-Thunk.mp4)
 
 # Road-Map
 
