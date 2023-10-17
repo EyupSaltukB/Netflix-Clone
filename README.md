@@ -1,6 +1,6 @@
 # React ile Netflix Clone
 Merhaba,
-Redux Thunk ile API'dan film verisi çekip Clone Netflix tasarladım. 
+Redux Thunk ile API'dan film verisi çekip Clone bir Netflix tasarladım. 
 
 # Kullanılan Teknılojiler
 - React.JS
